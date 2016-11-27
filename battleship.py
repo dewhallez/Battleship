@@ -50,5 +50,5 @@ for x in range(4):
             print "Game Over"
             break
         print_board(board)
-        print ship_row
-        print ship_col
+print ship_row
+print ship_col
